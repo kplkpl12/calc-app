@@ -14,8 +14,8 @@ class App():
 
 if __name__ == "__main__" :
     app = App()
-    app.plus(5)
-    app.minus(-10)
-    app.plus(2)
-    app.minus(-3)
+    app.plus(9)
+    app.minus(13)
+    app.plus(-4)
+    app.minus(1)
     app.print_result()
